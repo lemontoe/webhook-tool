@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "webhook_tool", "webhook_tool\webhook_tool.vcxproj", "{535EF1C6-DBF0-4950-895F-52BE82E23F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535EF1C6-DBF0-4950-895F-52BE82E23F81}.Debug|x64.ActiveCfg = Debug|x64
+		{535EF1C6-DBF0-4950-895F-52BE82E23F81}.Debug|x64.Build.0 = Debug|x64
+		{535EF1C6-DBF0-4950-895F-52BE82E23F81}.Debug|x86.ActiveCfg = Debug|Win32
+		{535EF1C6-DBF0-4950-895F-52BE82E23F81}.Debug|x86.Build.0 = Debug|Win32
+		{535EF1C6-DBF0-4950-895F-52BE82E23F81}.Release|x64.ActiveCfg = Release|x64
+		{535EF1C6-DBF0-4950-895F-52BE82E23F81}.Release|x64.Build.0 = Release|x64
+		{535EF1C6-DBF0-4950-895F-52BE82E23F81}.Release|x86.ActiveCfg = Release|Win32
+		{535EF1C6-DBF0-4950-895F-52BE82E23F81}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18F565D7-CF87-4E6B-A0EF-FA74012F4D04}
+	EndGlobalSection
+EndGlobal
