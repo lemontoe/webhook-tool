@@ -22,4 +22,4 @@ Normal message sending is a easy process, input your webhook url, type in your m
 
 ![message_example](https://github.com/user-attachments/assets/a2d32397-fa44-4d1a-acb8-129541c281ec)
 
-[embed_example](https://github.com/user-attachments/assets/a7999f70-c57a-4973-9328-d231141ea663)
+![embed_example](https://github.com/user-attachments/assets/a7999f70-c57a-4973-9328-d231141ea663)
